@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sombras on Taller Integrado 2020</title>
+    <link>/tags/sombras/</link>
+    <description>Recent content in Sombras on Taller Integrado 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sombras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plano de Luz 2</title>
+      <link>/blog/plano-2/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/plano-2/</guid>
+      <description>En este segundo plano podemos observar como el triángulo del telón se sobrepone con las sombras curvadas de su interior, en donde podemos observar las curvas que estas generan no por su nitidez si no que por su diferencia de tonalidad.
+ Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt.</description>
+    </item>
+    
+    <item>
+      <title>Plano de Luz 3</title>
+      <link>/blog/plano-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/plano-3/</guid>
+      <description>&lt;p&gt;En este caso podemos ver como las lineas de las sombras se sobreponen, generando así un poco deenredo sobre cua está adelante y cual más atrás. Si uno se fija detalladamente puede distinguir sus colores y distancias.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Volumen de Luz</title>
+      <link>/blog/volumen-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/volumen-1/</guid>
+      <description>&lt;p&gt;A diferencia de los demás proyectos éste es un volumen de luz, el cual genera diferencias de luces dependiendo de donde se posicione el foco y el ángulo de donde lo miremos, ya que las sombras se moverán e irán cambiando generando distintos resultados.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
