@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Taller Integrado 2020</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Taller Integrado 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plano de Luz 1</title>
+      <link>/blog/plano-1/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/plano-1/</guid>
+      <description>&lt;p&gt;En los planos de luz buscamos entregar diferentes tonos en la gama de grises mediante las sombras que se generan, en este proyecto podemos ver las curvas de fondo mas difuminadas que generan profundidad en comparación con las otras dos sombras más nítidas y oscuras que se encuentran más cerca del telón.
+&lt;img src=&#34;/img/p1/Plano12.jpg&#34; alt=&#34;Plano 2&#34;&gt;
+&lt;img src=&#34;/img/p1/Plano13.jpg&#34; alt=&#34;Plano 3&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Plano de Luz 2</title>
+      <link>/blog/plano-2/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/plano-2/</guid>
+      <description>En este segundo plano podemos observar como el triángulo del telón se sobrepone con las sombras curvadas de su interior, en donde podemos observar las curvas que estas generan no por su nitidez si no que por su diferencia de tonalidad.  Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude  Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt.</description>
+    </item>
+    
+    <item>
+      <title>Plano de Luz 3</title>
+      <link>/blog/plano-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/plano-3/</guid>
+      <description>&lt;p&gt;En este caso podemos ver como las lineas de las sombras se sobreponen, generando así un poco deenredo sobre cua está adelante y cual más atrás. Si uno se fija detalladamente puede distinguir sus colores y distancias.
+&lt;img src=&#34;/img/p3/Plano33.jpg&#34; alt=&#34;Plano 33&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/p3/Plano333.jpg&#34; alt=&#34;Plano 333&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/p3/Plano34.jpg&#34; alt=&#34;Plano 34&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/p3/Plano35.jpg&#34; alt=&#34;Plano 35&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Volumen de Luz</title>
+      <link>/blog/volumen-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/volumen-1/</guid>
+      <description>&lt;p&gt;A diferencia de los demás proyectos éste es un volumen de luz, el cual genera diferencias de luces dependiendo de donde se posicione el foco y el ángulo de donde lo miremos, ya que las sombras se moverán e irán cambiando generando distintos resultados.
+&lt;img src=&#34;/img/v1/Volumen2.jpg&#34; alt=&#34;Volumen 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/Volumen3.jpg&#34; alt=&#34;Volumen 3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/Volumen4.jpg&#34; alt=&#34;Volumen 4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/Volumen5.jpg&#34; alt=&#34;Volumen 5&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

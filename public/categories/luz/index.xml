@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>luz on Taller Integrado 2020</title>
+    <link>/categories/luz/</link>
+    <description>Recent content in luz on Taller Integrado 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/categories/luz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Volumen de Luz</title>
+      <link>/blog/volumen-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/volumen-1/</guid>
+      <description>&lt;p&gt;A diferencia de los demás proyectos éste es un volumen de luz, el cual genera diferencias de luces dependiendo de donde se posicione el foco y el ángulo de donde lo miremos, ya que las sombras se moverán e irán cambiando generando distintos resultados.
+&lt;img src=&#34;/img/v1/Volumen2.jpg&#34; alt=&#34;Volumen 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/Volumen3.jpg&#34; alt=&#34;Volumen 3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/Volumen4.jpg&#34; alt=&#34;Volumen 4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/Volumen5.jpg&#34; alt=&#34;Volumen 5&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
