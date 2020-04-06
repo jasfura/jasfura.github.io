@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Portafolio Javiera Asfura</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Portafolio Javiera Asfura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sombra y contraste</title>
+      <link>/portfolio/plano-de-luz-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/plano-de-luz-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/p1/p1.jpg&#34; alt=&#34;Plano 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En los planos de luz buscamos entregar diferentes tonos en la gama de grises mediante las sombras que se generan, en este proyecto podemos ver las curvas de fondo mas difuminadas que generan profundidad en comparación con las otras dos sombras más nítidas y oscuras que se encuentran más cerca del telón.&lt;/p&gt;
+&lt;p&gt;Detalles:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/p1/p11.jpg&#34; alt=&#34;Plano 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La superpocición de elementos generan sombras demayor o menor intensidad dependiendo de la distancia de la pantalla y el foco.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/p1/p12.jpg&#34; alt=&#34;Plano 3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En esta propuesta las curvas logran entregar diferentes percepciones dependiendo en lo que uno se fije, como por ejemplo podría ser en el fondo una sandía, una medusa o a las olas del mar.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/p1/p13.jpg&#34; alt=&#34;Plano 3&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Representación y Detalles</title>
+      <link>/portfolio/plano-de-luz-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/plano-de-luz-2/</guid>
+      <description>En este segundo plano podemos observar como el triángulo del telón se sobrepone con las sombras curvadas de su interior, en donde podemos observar las curvas que estas generan no por su nitidez si no que por su diferencia de tonalidad. Detalles: Los detalles de cada plano de luz son diferentes dependiendo de la parte que uno esté observando ya que si este se extrae del contexto se pueden observar diferentes cosas.</description>
+    </item>
+    
+    <item>
+      <title>Puntas y Curvas</title>
+      <link>/portfolio/plano-de-luz-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/plano-de-luz-3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/p3/p3.jpg&#34; alt=&#34;Plano 333&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En este caso podemos ver como las lineas de las sombras se sobreponen, generando así un poco deenredo sobre cua está adelante y cual más atrás. Si uno se fija detalladamente puede distinguir sus colores y distancias.
+&lt;img src=&#34;/img/p3/p31.jpg&#34; alt=&#34;Plano 33&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Se pueden utilizar diferentes tipos de luces cómo cálidad o frias, de esta forma entregar un ambiente diferente a nuestra representación.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/p3/p32.jpg&#34; alt=&#34;Plano 333&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sombras desde el interior</title>
+      <link>/portfolio/volumen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/volumen/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/v1/v1.jpg&#34; alt=&#34;Volumen 4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A diferencia de los demás proyectos éste es un volumen de luz, el cual genera diferencias de luces dependiendo de donde se posicione el foco y el ángulo de donde lo miremos, ya que las sombras se moverán e irán cambiando generando distintos resultados.
+Detalles:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/v11.jpg&#34; alt=&#34;Volumen 4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Los detalles en el volumen pueden variar tanto en su forma como en su color o densidad por la distancia del foco.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/v12.jpg&#34; alt=&#34;Volumen 5&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Podemos también intentar generar la sombra desde adentro hacia afuera o de afuera hacia adentro y observar los resultados como un domo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/v1/v13.jpg&#34; alt=&#34;Volumen 2&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo Website tutorial</title>
+      <link>/portfolio/hugo-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/hugo-tutorial/</guid>
+      <description>En este post podrán aprender cómo hacer una página web cómo la que ven aquí.
+  Primero descargar la extención Hombrew de Hugo que nos servirá para realizar nuestra página web https://formulae.brew.sh/formula/hugo.   Desde el terminal de tu computador ingresar a la carpeta documentos con el comando ``cd documents´´de esta forma estaremos dentro para crear nuestra carpeta del sitio web
+  Luego debemos utilizar el comando hugo new site (X)  escribiendo el nombre de nuestro sitio que queremos crear.</description>
+    </item>
+    
+  </channel>
+</rss>
