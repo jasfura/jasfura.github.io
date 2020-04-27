@@ -12,12 +12,11 @@
     
     <item>
       <title>Sombra y contraste</title>
-      <link>/portfolio/plano-de-luz-1/</link>
+      <link>/portfolio/1.plano-de-luz-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/plano-de-luz-1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/p1/p1.jpg&#34; alt=&#34;Plano 2&#34;&gt;&lt;/p&gt;
-&lt;p&gt;En los planos de luz buscamos entregar diferentes tonos en la gama de grises mediante las sombras que se generan, en este proyecto podemos ver las curvas de fondo mas difuminadas que generan profundidad en comparación con las otras dos sombras más nítidas y oscuras que se encuentran más cerca del telón.&lt;/p&gt;
+      <guid>/portfolio/1.plano-de-luz-1/</guid>
+      <description>&lt;p&gt;En los planos de luz buscamos entregar diferentes tonos en la gama de grises mediante las sombras que se generan, en este proyecto podemos ver las curvas de fondo mas difuminadas que generan profundidad en comparación con las otras dos sombras más nítidas y oscuras que se encuentran más cerca del telón.&lt;/p&gt;
 &lt;p&gt;Detalles:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/p1/p11.jpg&#34; alt=&#34;Plano 2&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La superpocición de elementos generan sombras demayor o menor intensidad dependiendo de la distancia de la pantalla y el foco.&lt;/p&gt;
@@ -28,21 +27,20 @@
     
     <item>
       <title>Representación y Detalles</title>
-      <link>/portfolio/plano-de-luz-2/</link>
+      <link>/portfolio/2.plano-de-luz-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/plano-de-luz-2/</guid>
+      <guid>/portfolio/2.plano-de-luz-2/</guid>
       <description>En este segundo plano podemos observar como el triángulo del telón se sobrepone con las sombras curvadas de su interior, en donde podemos observar las curvas que estas generan no por su nitidez si no que por su diferencia de tonalidad. Detalles: Los detalles de cada plano de luz son diferentes dependiendo de la parte que uno esté observando ya que si este se extrae del contexto se pueden observar diferentes cosas.</description>
     </item>
     
     <item>
       <title>Puntas y Curvas</title>
-      <link>/portfolio/plano-de-luz-3/</link>
+      <link>/portfolio/3.plano-de-luz-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/plano-de-luz-3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/p3/p3.jpg&#34; alt=&#34;Plano 333&#34;&gt;&lt;/p&gt;
-&lt;p&gt;En este caso podemos ver como las lineas de las sombras se sobreponen, generando así un poco deenredo sobre cua está adelante y cual más atrás. Si uno se fija detalladamente puede distinguir sus colores y distancias.
+      <guid>/portfolio/3.plano-de-luz-3/</guid>
+      <description>&lt;p&gt;En este caso podemos ver como las lineas de las sombras se sobreponen, generando así un poco deenredo sobre cua está adelante y cual más atrás. Si uno se fija detalladamente puede distinguir sus colores y distancias.
 &lt;img src=&#34;/img/p3/p31.jpg&#34; alt=&#34;Plano 33&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Se pueden utilizar diferentes tipos de luces cómo cálidad o frias, de esta forma entregar un ambiente diferente a nuestra representación.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/img/p3/p32.jpg&#34; alt=&#34;Plano 333&#34;&gt;&lt;/p&gt;</description>
@@ -50,10 +48,10 @@
     
     <item>
       <title>Sombras desde el interior</title>
-      <link>/portfolio/volumen/</link>
+      <link>/portfolio/4.volumen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/volumen/</guid>
+      <guid>/portfolio/4.volumen/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;/img/v1/v1.jpg&#34; alt=&#34;Volumen 4&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A diferencia de los demás proyectos éste es un volumen de luz, el cual genera diferencias de luces dependiendo de donde se posicione el foco y el ángulo de donde lo miremos, ya que las sombras se moverán e irán cambiando generando distintos resultados.
 Detalles:&lt;/p&gt;
@@ -65,14 +63,67 @@ Detalles:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Hugo Website tutorial</title>
-      <link>/portfolio/hugo-tutorial/</link>
+      <title>Fusion 360</title>
+      <link>/portfolio/8.fusion-360/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/hugo-tutorial/</guid>
+      <guid>/portfolio/8.fusion-360/</guid>
+      <description>En este software aprenderemos a modelar y editar objetos, mediante diferentes capas y divisiones lograremos conrolar los puntos de control, en este caso crearemos un yeso para el brazo.
+Primero adaptaremos los puntos de control al brazo dejandole un espacio para que no se sobreponga a la geometría, para esto utilizamos el comando de mover.
+Agregando informacion&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hugo Website tutorial</title>
+      <link>/portfolio/5.hugo-tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/5.hugo-tutorial/</guid>
       <description>En este post podrán aprender cómo hacer una página web cómo la que ven aquí.
   Primero descargar la extención Hombrew de Hugo que nos servirá para realizar nuestra página web https://formulae.brew.sh/formula/hugo.   Desde el terminal de tu computador ingresar a la carpeta documentos con el comando ``cd documents´´de esta forma estaremos dentro para crear nuestra carpeta del sitio web
   Luego debemos utilizar el comando hugo new site (nombre)  escribiendo el nombre de nuestro sitio que queremos crear.</description>
+    </item>
+    
+    <item>
+      <title>Despachos a domicilio</title>
+      <link>/portfolio/6.movilidad-de-emergencia-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/6.movilidad-de-emergencia-copy/</guid>
+      <description>Delivery en momentos de emergencia. Cada día la compra por internet se hace más cotidina y un mayor porcentaje de personas elige este medio. En éste estudio se busca encontrar las partes de la cadena que podrían estar contaminando el producto que consumiremos en nuetsras casas.
+ Cómo podemos hacer algo tan cotideano e incuestionado más seguro? Cómo podemos garantizar que la producción de los productos sea lo más limpia posible?</description>
+    </item>
+    
+    <item>
+      <title>Investigación Movilidad Emergencia</title>
+      <link>/portfolio/9.investigacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/9.investigacion/</guid>
+      <description>A través de nuestro análisis, nos dimos cuenta de que al realizar compras dentro de los supermercados, durante la pandemia, existe un alto riesgo de infección. Se dictaron distintos protocolos (los cuales se pueden observar en la imagen), pero todas esas medidas dependen de la personas que se encuentra comprando.
+  A medida que fuimos avanzando, surgieron varias preguntas:
+¿Cómo serán los supermercados del futuro? Luego de la pandemia ¿Se generará una mayor desconfianza hacia las personas?</description>
+    </item>
+    
+    <item>
+      <title>Propuesta de Diesño</title>
+      <link>/portfolio/10.propuesta-dise%C3%B1o/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/10.propuesta-dise%C3%B1o/</guid>
+      <description>Propuesta 27 Abril Nuestro nuevo Bee Market está diseñado para mantenerse ubicado en un lugar fijo. Cada Market se encuentra en un lugar estratégico al alcance de la mayor cantidad de vecinos posible.
+RENDER MARKET GENERAL
+Podemos observar estos dispositivos transportadores. Estos drones son los encargados de buscar la fruta y verdura en el campo, para luego llevarla rápidamente hacia su Bee Market correspondiente. De esta manera aseguramos productos frescos al alcance durante todo el día para nuestros clientes.</description>
+    </item>
+    
+    <item>
+      <title>Software Creativo</title>
+      <link>/portfolio/7.software-creativo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/7.software-creativo/</guid>
+      <description>Magical Voxel  En este software podemos comenzar a crear a traves de una geometría, extrayendo o agregando superficies, de esta forma podemos obtener resultados complejos y poligonales para la creación 3D.
+  Éste software puede ser útil para la creación de objetos para animación, juegos o cómics. Un ejemplo de un juego creado con éste programa es Monument Valley, que aparece en la primera imagen en donde hay que atravesar un laverinto tridimencional.</description>
     </item>
     
   </channel>
