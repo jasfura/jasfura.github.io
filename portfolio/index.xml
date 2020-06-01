@@ -89,8 +89,8 @@ Detalles:&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/portfolio/7.software-creativo/</guid>
-      <description>Magical Voxel  En este software podemos comenzar a crear a traves de una geometría, extrayendo o agregando superficies, de esta forma podemos obtener resultados complejos y poligonales para la creación 3D.
-  Éste software puede ser útil para la creación de objetos para animación, juegos o cómics. Un ejemplo de un juego creado con éste programa es Monument Valley, que aparece en la primera imagen en donde hay que atravesar un laverinto tridimencional.</description>
+      <description>Magical Voxel En este software podemos crear y editar modelos 3D de 8 bits, siendo una interfaz intuitiva lograremos aprender a utilizarla sin mayor problema. Para resumir un poco esta interfaz dejaré este punteo:
+ Procesador de trazados de ruta incorporado Diferentes tipod se exportación Interfaz open source personalizable Multiples tipos de pincel y tamaños de voxels Formas y patrones prefabricados Se pueden establecer atajos personalizados Renderizado incorporado con texturas y ajustes de camaras 100% gratuito y sin licencia comercial   Demo 1) Paleta de Colores En esta parte podemos ver los colores disponibles para poner en nuestro modelo, tenemos 3 paletas que vienen incluidas con el software y además podemis descargar y agregarle las paletas que queramos.</description>
     </item>
     
     <item>
@@ -105,7 +105,7 @@ En el panel de la izquierda nos encontraremos con nuestras capas en donde podemo
     </item>
     
     <item>
-      <title>Investigación Movilidad Emergencia</title>
+      <title>Investigación compras en supermercados</title>
       <link>/portfolio/9.investigacion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -131,6 +131,15 @@ En el panel de la izquierda nos encontraremos con nuestras capas en donde podemo
       
       <guid>/portfolio/11.drone/</guid>
       <description>Drone Keyshot </description>
+    </item>
+    
+    <item>
+      <title>Propuesta Final</title>
+      <link>/portfolio/12.-propuesta-final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/12.-propuesta-final/</guid>
+      <description> Problemática, datos cuantitativos y pregunta proyecto  Estudio antecedentes y tecnologías que validan nuestra propuesta  Propuesta de diseño, descripción funciones y visualización objeto  </description>
     </item>
     
   </channel>
